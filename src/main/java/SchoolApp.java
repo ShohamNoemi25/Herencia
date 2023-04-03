@@ -15,7 +15,7 @@ public class SchoolApp {
 
 
        /* System.out.println("\n los datos del alumno son:"+
-               "\n" +student1.getName()+
+               "\n" +student1.getName()+;
                 "\n"+ student1.getLastname()+
                 "\n"+ student1.getEmail()+
                 "\n"+ student1.getAddress()+
